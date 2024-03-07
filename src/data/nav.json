@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Bar Charts",
+    "link": "/"
+  },
+  {
+    "title": "Pie Charts",
+    "link": "/pie-charts"
+  },
+  {
+    "title": "Line Charts",
+    "link": "/line-charts"
+  }
+]
